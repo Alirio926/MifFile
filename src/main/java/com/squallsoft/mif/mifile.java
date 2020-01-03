@@ -15,7 +15,7 @@
  * com este programa, Se não, veja <http://www.gnu.org/licenses/>.
  */
 package com.squallsoft.mif;
-
+  
 import java.io.File;
 import java.io.IOException;
 import java.io.RandomAccessFile;
